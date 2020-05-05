@@ -1,0 +1,2 @@
+# Handwritten-Digits-Recognition
+The project consists of developing and implementing the recognition of handwritten digits using OpenCV. The system performs character recognition by quantification of the character into a mathematical vector entity using the geometrical properties of the character image. This developed system helps in automated identification of postal codes, for recognizing numbers in car plates, the computerized processing of some administrative forms, and the automatic recognition of amounts on bank cheques.
